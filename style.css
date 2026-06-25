@@ -1,16 +1,13 @@
 *{
-    background-color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+
+}
+
+header{
+    background-color:black;
 }
 
 h1{
-    color:black;
-}
-h2{
-    color:rgb(249, 14, 14)
-}
-h3{
-    color:blue;
-}
-h4{
-    color: rgb(158, 110, 190);
+    font-size: 14px;
+    color:white
 }
